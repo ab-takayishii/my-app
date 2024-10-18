@@ -1,5 +1,7 @@
 # my-app
 
+コンフリクトのテスト
+
 ## Project setup
 ```
 npm install
